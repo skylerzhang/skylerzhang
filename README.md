@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Skyler.
+
+- 💻 Programmer
+- 🚀 DevOps / AI Coding
+- 📈 Investor
+- 🛠 CI/CD Builder
+
 <!--
 **skylerzhang/skylerzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
