@@ -2,6 +2,7 @@
 
 I'm Skyler. 
 
+- ☁️ Building AI Agent hosting platforms
 - 🔭 Building AI-driven engineering workflows
 - ⚙️ DevOps / CI-CD / Platform Engineering
 - 🤖 AI Coding / Agent Systems / Automation
